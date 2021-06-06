@@ -8,6 +8,11 @@
   *  メルカリ（　https://www.mercari.com/jp　）のようなユーザー間で自由に取引できるプラットフォーム
   * 金銭のやり取りは行わず、物々交換（レストラン側はフードチケット等）での取引
   * SDGsや食品廃棄の問題、飲食と生産者双方のメリットになる取り組み
+  * ECサイト（メルカリ）のような形式で、取引の間にオファーフェーズ（購入者が商品を交換商品を提示）を挟む。
+  * レストラン側がオファー申請をし、生産者側がオファー承諾することで注文が完了。
+## 実装機能 
+  * いいね機能、コメント機能、オファー機能、検索機能
+  * 要検討（ジャンルの階層構造gem ‘ancestry’、タグ機能）
 ## サイト設計図
   * ER図（https://drive.google.com/file/d/1rzE7Faidf-b73q5Ahk5mEV5Wv9OFfxNy/view?usp=sharing）
   * 画面遷移図（https://drive.google.com/file/d/1wv4DAQ76Cr2aX-Tcdc29lmVFhPlGsiiO/view?usp=sharing）
