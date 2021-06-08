@@ -36,7 +36,7 @@
 
 ## サイト設計図
   * ER図（https://drive.google.com/file/d/1rzE7Faidf-b73q5Ahk5mEV5Wv9OFfxNy/view?usp=sharing）
-  　 https://drive.google.com/file/d/1r_dIMJ-5Cat8xoZ2VB0Xy-K2GfiOkuvO/view?usp=sharing
+  　![田中翔太ポートフォリオ](https://user-images.githubusercontent.com/78789105/121110596-8042e400-c848-11eb-8492-eac5f5cc2e56.jpg)
   * 画面遷移図（https://drive.google.com/file/d/1wv4DAQ76Cr2aX-Tcdc29lmVFhPlGsiiO/view?usp=sharing）
   * アプリケーション定義書（https://drive.google.com/file/d/13ReQCO37fyGJI2jBT8msQd-JYDFHPOAo/view?usp=sharing）
   * チャレンジ要素一覧（https://docs.google.com/spreadsheets/d/1Uqk7aJu_OgppnLsnrAEJe2xI1BnNlB_9QUgpyxwT21U/edit?usp=sharing）
