@@ -39,3 +39,9 @@
   * アプリケーション定義書（https://drive.google.com/file/d/13ReQCO37fyGJI2jBT8msQd-JYDFHPOAo/view?usp=sharing）
   * チャレンジ要素一覧（https://docs.google.com/spreadsheets/d/1Uqk7aJu_OgppnLsnrAEJe2xI1BnNlB_9QUgpyxwT21U/edit?usp=sharing）
   * テーブル定義書（https://drive.google.com/file/d/1Imqj7BhY1gPq38XG_BVY8aSZNuHeF73p/view?usp=sharing）
+
+##  開発環境
+ * 言語：HTML,CSS,JavaScript,Ruby,MySQL
+ * フレームワーク：Ruby on Rails
+ * JSライブラリ：jQuery
+ * IDE：Cloud9
