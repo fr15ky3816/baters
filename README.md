@@ -1,17 +1,13 @@
 # アグリバーター（仮）
   余剰・廃棄野菜を生産者、レストランさん間で取引するための<br>物々交換プラットフォーム
-
-## ターゲットユーザ
-  * 市場に流通させることができないような余剰廃棄野菜に悩む農家、生産者
-  * 生産者とのつながりや廃棄ロス問題に共感する飲食店、消費者
-
 ## サイト概要
  農家さんが生産する野菜が流通されることなく、大量に廃棄されている問題を解決する手段として作成いたしました。
   *  メルカリ（　https://www.mercari.com/jp　）のようなユーザー間で自由に取引できるプラットフォーム
   * 金銭のやり取りは行わず、物々交換（レストラン側はフードチケット等）での取引
   * SDGsや食品廃棄の問題、飲食と生産者双方のメリットになる取り組み
-
-## サイト利用の流れ
+  <br>
+  サイト利用の流れ
+  <br>
   レストラン側
   1. 出品したい商品（交換したい商品）を登録
   2. 購入したい商品に交換商品を提示してオファーを申請
@@ -30,6 +26,11 @@
   *  レストラン側がオファー申請をし、生産者側がオファー承諾することで注文が完了。
   *  配送に関しては、商品サイズが大きかったり、重量があるものが多いので、利用者同士でコメント内で取り決めるものとする
 
+### ターゲットユーザ
+  * 市場に流通させることができないような余剰廃棄野菜に悩む農家、生産者
+  * 生産者とのつながりや廃棄ロス問題に共感する飲食店、消費者
+
+  
 ## 実装機能 
   * いいね機能、コメント機能、オファー機能、検索機能
   * 要検討（ジャンルの階層構造gem ‘ancestry’、タグ機能）
@@ -40,11 +41,17 @@
   * 画面遷移図（https://drive.google.com/file/d/1wv4DAQ76Cr2aX-Tcdc29lmVFhPlGsiiO/view?usp=sharing）
    ![画面遷移図　田中翔太ポートフォリオ](https://user-images.githubusercontent.com/78789105/121113895-cbabc100-c84d-11eb-9615-685d4adf1e4c.png)
   * アプリケーション定義書（https://drive.google.com/file/d/13ReQCO37fyGJI2jBT8msQd-JYDFHPOAo/view?usp=sharing）
-  * チャレンジ要素一覧（https://docs.google.com/spreadsheets/d/1Uqk7aJu_OgppnLsnrAEJe2xI1BnNlB_9QUgpyxwT21U/edit?usp=sharing）
+  
   * テーブル定義書（https://drive.google.com/file/d/1Imqj7BhY1gPq38XG_BVY8aSZNuHeF73p/view?usp=sharing）
+## チャレンジ要素一覧
+  * チャレンジ要素一覧（https://docs.google.com/spreadsheets/d/1Uqk7aJu_OgppnLsnrAEJe2xI1BnNlB_9QUgpyxwT21U/edit?usp=sharing）
 
-##  開発環境
- * 言語：HTML,CSS,JavaScript,Ruby,MySQL
- * JSライブラリ：jQuery
- * フレームワーク：Ruby on Rails
- * IDE：Cloud9
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
+- 現時点では未使用
